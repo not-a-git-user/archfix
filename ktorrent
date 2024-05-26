@@ -1,0 +1,1 @@
+to enable the file manager in a torrent you need to install geoip i.e. sudo pacman -S geoip
